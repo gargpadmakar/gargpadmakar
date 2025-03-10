@@ -4,11 +4,7 @@
 
 ## 🚀 About Me
 
-👨‍💻 Sure! Here's a refined version of your account description that you can use to showcase your skills and experience in a professional yet approachable way:
-
----
-
-**Padmakar Garg | Mobile App Developer**
+👨‍💻**Padmakar Garg | Mobile App Developer**
 
 Hello! I’m Padmakar Garg, a passionate and dedicated mobile app developer with a strong focus on Android app development. Since starting my journey in Android development in 2020, I have honed my skills and embraced best practices in mobile app development to deliver high-quality solutions for my clients.
 
