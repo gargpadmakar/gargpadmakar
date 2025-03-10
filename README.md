@@ -46,6 +46,7 @@ I have hands-on experience in building fully functional native Android applicati
 I continuously refine my skills to keep up with the evolving landscape of mobile development. Whether you're looking for someone to help build a secure, scalable Android application from scratch, or optimize your existing app, I am dedicated to delivering high-quality, efficient solutions tailored to your needs.
 
 💻 **Technologies I work with**: **Kotlin**, **Java**, **Android Studio**, **Firebase**, **Socket.IO**, **Room DB**, **Crashlytics**, **Jetpack**  **Payment Gateway Integrations (PayPal, Stripe, Razorpay, Cashfree, PayUMoney)**
+
 🛡️ I developed **AppProtectGuard**, an open-source Android security library, designed to detect vulnerabilities and unauthorized modifications, including rooted devices, active debuggers, and more.  
 ❤️ As an **open-source contributor**, I enjoy collaborating with like-minded developers to create innovative and impactful solutions.  
 🤝 **Let’s work together!** If you’re working on an exciting project or need a skilled developer for your Android app, feel free to reach out.
