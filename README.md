@@ -5,6 +5,7 @@
 ## 🚀 About Me
 
 👨‍💻**Padmakar Garg | Mobile App Developer**
+
 With over 5 years of experience in mobile app development, I specialize in building high-performance, user-friendly Android applications. Skilled in **Kotlin**, **Java**, and modern Android frameworks, I focus on creating seamless experiences that meet client needs and exceed expectations.
 
 Since embarking on my Android development journey in 2018, I’ve honed my skills, embraced best practices, and delivered high-quality solutions across various domains. I believe that great mobile applications are a result of patience, continuous research, and effective problem-solving. My approach is detail-oriented, ensuring that every aspect of the app—from functionality to user experience—is well-crafted and optimized.
