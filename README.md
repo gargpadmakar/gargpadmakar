@@ -15,7 +15,7 @@
 
 <p float="left">
   <a href="https://www.linkedin.com/in/padmakargarg" title="Connect with me on LinkedIn">
-    <img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" width="120" alt="LinkedIn" />
+    <img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" width="60" alt="LinkedIn" />
   </a>
   
   <a href="https://medium.com/@worldpadmakar007" title="Check out my Medium blog for articles and insights">
