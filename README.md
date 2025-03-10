@@ -19,7 +19,7 @@
   </a>
   
   <a href="https://medium.com/@worldpadmakar007" title="Check out my Medium blog for articles and insights">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="50" alt="Medium" />
+    <img src="https://findingtom.com/images/uploads/medium-logo/article-image-00.jpeg" width="50" alt="Medium" />
   </a>
 </p>
 
