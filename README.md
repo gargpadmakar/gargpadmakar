@@ -5,7 +5,7 @@
 ## 💫 About
 
 👨‍💻 I'm a professional software developer  
-💻 I build cool projects with **Kotlin**, **Java**, **Android** and **Cyber Secuirity**  
+💻 I build cool projects with **Kotlin**, **Java**, **Android** and **Cyber Security**  
 ❤️ I'm an active open-source contributor  
 🤝 I'm looking to collaborate on interesting open-source projects
 
@@ -18,15 +18,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" width="120" alt="LinkedIn" />
   </a>
  
-  <a href="https://youtube.com/@padmakargarg" title="Checkout my YouTube channel">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/YouTube_icon_%282013-2017%29.png" width="120" alt="YouTube" />
-  </a>
-  
-  <a href="https://twitter.com/padmakargarg" title="Checkout my Twitter profile">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" width="120" alt="Twitter" />
-  </a>
-  
-  <a href="https://medium.com/@padmakargarg" title="Checkout my Medium blog">
+  <a href="https://medium.com/@worldpadmakar007" title="Checkout my Medium blog">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="50" alt="Medium" />
   </a>
 </p>
