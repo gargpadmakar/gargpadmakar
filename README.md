@@ -4,11 +4,12 @@
 
 ## 🚀 About Me
 
-👨‍💻 I'm a passionate and professional **Software Developer** with a deep focus on creating impactful solutions.  
-💻 I specialize in **Kotlin**, **Java**, **Android Development**, and have a keen interest in **Cyber Security**.  
-❤️ I'm a proud **open-source contributor**, and I love collaborating with like-minded developers to bring exciting projects to life.  
+🚀 About Me
+👨‍💻 I'm a passionate and professional Software Developer with a deep focus on creating impactful solutions.
+💻 I specialize in Kotlin, Java, Android Development, and have a keen interest in Cyber Security.
+🛡️ I developed AppProtectGuard, a security library designed for Android applications that helps detect various types of vulnerabilities and unauthorized modifications. It can detect rooted devices, emulators, active debuggers, VPN usage, proxy settings, and more, ensuring that your app runs in a secure environment and provides protection against tampering.
+❤️ I'm a proud open-source contributor, and I love collaborating with like-minded developers to bring exciting projects to life.
 🤝 Let's build something amazing together! Feel free to reach out if you're working on an open-source project and need a helping hand.
-
 ---
 
 ## 🌐 Let's Connect!
