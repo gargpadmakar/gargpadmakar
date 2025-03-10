@@ -1,6 +1,6 @@
 # Hey there! I'm **Padmakar Garg** 👋
 
-<img align="right" width="350" src="https://github.com/hadiyarajesh/hadiyarajesh/blob/master/Assets/dev.gif" alt="dev_logo"/>
+<img align="right" width="350" src="https://cdn.prod.website-files.com/61ebe5f773be1acd620f8208/61fa3997c8a7f531e18d4e67_man-coding-on-laptop.gif" alt="dev_logo"/>
 
 ## 🚀 About Me
 
