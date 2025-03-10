@@ -19,7 +19,7 @@
   </a>
   
   <a href="https://medium.com/@worldpadmakar007" title="Check out my Medium blog for articles and insights">
-    <img src="https://findingtom.com/images/uploads/medium-logo/article-image-00.jpeg" width="50" alt="Medium" />
+    <img src="https://cdn.mos.cms.futurecdn.net/xJGh6cXvC69an86AdrLD98-737-80.jpg" width="50" alt="Medium" />
   </a>
 </p>
 
