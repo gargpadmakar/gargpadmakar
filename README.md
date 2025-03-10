@@ -1,62 +1,70 @@
-# Hey, I am Padmakar Garg <img src="https://github.com/hadiyarajesh/hadiyarajesh/blob/master/Assets/hi.gif" width="30px" height="30px">
+# Hey there! I'm Padmakar Garg 👋
 
 <img align="right" width="350" src="https://github.com/hadiyarajesh/hadiyarajesh/blob/master/Assets/dev.gif" alt="dev_logo"/>
 
-## 💫 About
+## 🚀 About Me
 
-👨‍💻 I'm a professional software developer  
-💻 I build cool projects with **Kotlin**, **Java**, **Android** and **Cyber Security**  
-❤️ I'm an active open-source contributor  
-🤝 I'm looking to collaborate on interesting open-source projects
+👨‍💻 I'm a passionate and professional **Software Developer** with a deep focus on creating impactful solutions.  
+💻 I specialize in **Kotlin**, **Java**, **Android Development**, and have a keen interest in **Cyber Security**.  
+❤️ I'm a proud **open-source contributor**, and I love collaborating with like-minded developers to bring exciting projects to life.  
+🤝 Let's build something amazing together! Feel free to reach out if you're working on an open-source project and need a helping hand.
 
-</br>
+---
 
-## 🌐 Let's Connect 
+## 🌐 Let's Connect!
 
 <p float="left">
-  <a href="https://www.linkedin.com/in/padmakargarg" title="Checkout my LinkedIn profile">
+  <a href="https://www.linkedin.com/in/padmakargarg" title="Connect with me on LinkedIn">
     <img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" width="120" alt="LinkedIn" />
   </a>
- 
-  <a href="https://medium.com/@worldpadmakar007" title="Checkout my Medium blog">
+  
+  <a href="https://medium.com/@worldpadmakar007" title="Check out my Medium blog for articles and insights">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="50" alt="Medium" />
   </a>
 </p>
 
-</br>
+---
 
 ## 💻 My Tech Stack
 
+I'm skilled in a variety of technologies, and I’m constantly expanding my knowledge. Here's a quick look at the tools I use the most:
+
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%23232323.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</br>
+---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 
 <div>
- <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gargpadmakar&theme=white&hide_border=false" alt="github_contribution"/>
- </div>
- 
- <div>
-   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiyarajesh&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="most_used_languages"/> -->
- </div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gargpadmakar&theme=white&hide_border=false" alt="GitHub Contribution Streak"/>
+  </div>
+
+  <div>
+    <!-- Uncomment this section for top language stats -->
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargpadmakar&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages"/> -->
+  </div>
 </div>
 
-</br>
+---
 
-## 💰 Donate
+## 💰 Support Me
 
-<div>  
+If you find my work valuable, consider supporting me with a coffee! Every little bit helps me keep creating content and improving my skills.
+
+<div>
   <a href="https://buymeacoffee.com/padmakargarg">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
 </div>
 
-<div align="center">
-  <h3>Show some ❤️ by starring some repositories!</h3>
-</div>
+---
+
+### ⭐ Show some ❤️
+
+If you enjoy my repositories or find them useful, please consider starring them! Your support helps me grow and motivates me to continue contributing to the community.
