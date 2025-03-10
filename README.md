@@ -4,35 +4,53 @@
 
 ## 🚀 About Me
 
-👨‍💻**Padmakar Garg | Mobile App Developer**
+👨‍💻 **Padmakar Garg | Mobile App Developer**
 
-With over 5 years of experience in mobile app development, I specialize in building high-performance, user-friendly Android applications. Skilled in **Kotlin**, **Java**, and modern Android frameworks, I focus on creating seamless experiences that meet client needs and exceed expectations.
+With over 5 years of experience in mobile app development, I specialize in creating high-performance, user-friendly Android applications. My expertise lies in **Kotlin**, **Java**, and modern Android frameworks, enabling me to deliver seamless app experiences that solve real-world problems. Since starting my journey in Android development in 2018, I've gained deep insights into app architecture, design, and optimization while continually adopting best practices in the industry.
 
-Since embarking on my Android development journey in 2018, I’ve honed my skills, embraced best practices, and delivered high-quality solutions across various domains. I believe that great mobile applications are a result of patience, continuous research, and effective problem-solving. My approach is detail-oriented, ensuring that every aspect of the app—from functionality to user experience—is well-crafted and optimized.
+I approach app development with a passion for precision, where patience, thorough research, and problem-solving are key components in ensuring the success of every project. Whether it's building an app from scratch or optimizing an existing one, I strive to exceed client expectations with every line of code.
 
-As an experienced Android developer, I bring a wealth of expertise in developing native Android applications using **Kotlin** and **Java**, with a deep understanding of key frameworks and tools, including **Android Studio**, **Firebase**, **Firebase Cloud Messaging**, **Google Play Services**, and more. Additionally, I leverage popular Android libraries like **Retrofit**, **Glide**, **Picasso**, and many others to enhance performance and app functionality.
+I have hands-on experience in building fully functional native Android applications using **Kotlin** and **Java**, and I am highly proficient in key Android technologies such as **Android Studio**, **Firebase**, **Google Play Services**, and **Jetpack Libraries**. My skills also extend to mobile app security, where I focus on encrypting data and preventing tampering to ensure robust app protection.
 
-### Here’s what I bring to the table:
+### **Core Skills & Expertise:**
 
-- **Native Android Development**: Expertise in developing fully functional and interactive Android apps using **Kotlin** and **Java**.
-- **Firebase Integration**: Extensive experience in integrating **Firebase** for real-time databases, **Firebase Cloud Messaging** for push notifications, and other Firebase services.
-- **UI/UX Design**: Skilled in crafting intuitive, user-friendly designs to ensure a seamless user experience and visually appealing interfaces.
-- **API Integration**: Proficient in connecting Android apps with external APIs for efficient data exchange with cloud services and third-party systems.
-- **Background Services**: Expertise in implementing background services and notifications for smooth operation even when apps are not in the foreground.
-- **Advanced UI Components**: Knowledge of advanced Android UI components like **RecyclerView**, **GridView**, **ProgressBar**, **ListView**, and **Custom Dialogs** to enhance app functionality and the user experience.
-- **Optimization & Problem-Solving**: Focused on solving complex problems and optimizing app performance for smooth and efficient functioning.
+- **Native Android Development**: Expertise in building Android apps using **Kotlin**, **Java**, and modern Android frameworks like **Jetpack**.
+  
+- **UI/UX Design**: Crafting user-centric designs with a focus on **Material Design**, intuitive layouts, and seamless navigation.
 
-I am continuously learning and evolving with new technologies to stay at the forefront of mobile app development. If you're looking for a dedicated, results-driven Android developer to bring your ideas to life or improve an existing app, I’d be excited to collaborate with you!
+- **Networking & API Integration**: Proficient in integrating **RESTful APIs**, **Firebase Cloud Messaging**, and working with **Socket.IO** for real-time data exchange.
 
-💻 **Technologies I specialize in**: **Kotlin**, **Java**, **Android Development**, with a growing interest in **Cyber Security**.  
-🛡️ **AppProtectGuard**: I developed a security library designed to protect Android apps against various vulnerabilities and unauthorized modifications. It detects issues like rooted devices, emulators, VPN usage, proxy settings, and more, ensuring your app runs securely.  
-❤️ As a proud **open-source contributor**, I love collaborating with developers on innovative projects and supporting the open-source community.  
-🤝 **Let’s build something amazing together!** Feel free to reach out if you’re working on an open-source project or need help with your Android app development.
+- **Database Management**: Expertise in **Room Database** for local storage and managing data persistence within Android apps.
+
+- **Security**: Strong focus on **Mobile App Security**, including **Cryptography**, **Data Encryption**, and leveraging tools like **AppProtectGuard** to protect apps from unauthorized access and vulnerabilities.
+
+- **Advanced Android Components**: Utilizing **RecyclerView**, **GridView**, **ProgressBar**, **ListView**, and **Custom Dialogs** to create dynamic, responsive interfaces.
+
+- **Performance Optimization**: Using **Android Profiler** and **Espresso** for debugging, testing, and optimizing app performance to ensure smooth user experiences.
+
+- **Version Control & Collaboration**: Skilled in **Git** and platforms like **GitHub**, **GitLab**, and **Bitbucket** to ensure smooth versioning and collaboration with teams.
+
+- **Mobile Device Management (MDM)**: Familiar with managing enterprise-level apps using **Microsoft MDM**.
+
+- **App Testing**: Writing and running unit tests, UI tests with **Espresso**, and ensuring app stability through **Crashlytics** integration.
+
+### **Additional Technologies & Libraries:**
+
+- **Google Maps API**
+- **Retrofit for Networking**
+- **Picasso, Glide for Image Loading**
+- **LiveKit for Real-Time Communication**
 
 ---
 
-Let me know if you need any further edits!
+I continuously refine my skills to keep up with the evolving landscape of mobile development. Whether you're looking for someone to help build a secure, scalable Android application from scratch, or optimize your existing app, I am dedicated to delivering high-quality, efficient solutions tailored to your needs.
 
+💻 **Technologies I work with**: **Kotlin**, **Java**, **Android Studio**, **Firebase**, **Socket.IO**, **Room DB**, **Crashlytics**, **Jetpack**  
+🛡️ I developed **AppProtectGuard**, an open-source Android security library, designed to detect vulnerabilities and unauthorized modifications, including rooted devices, active debuggers, and more.  
+❤️ As an **open-source contributor**, I enjoy collaborating with like-minded developers to create innovative and impactful solutions.  
+🤝 **Let’s work together!** If you’re working on an exciting project or need a skilled developer for your Android app, feel free to reach out.
+
+---
 ## 🌐 Let's Connect!
 
 <p float="left">
