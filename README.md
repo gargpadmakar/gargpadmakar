@@ -1,333 +1,317 @@
-# Hey, I'm Padmakar Garg 👋
-
-## Android Developer | Kotlin | Jetpack Compose | Android System Design | Mobile Security
-
-<a href="https://gargpadmakar.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Padmakar%20Garg-000000?style=for-the-badge" alt="Padmakar Garg Portfolio"/>
-</a>
-<a href="https://github.com/gargpadmakar">
-  <img src="https://img.shields.io/badge/GitHub-gargpadmakar-181717?style=for-the-badge&logo=github" alt="Padmakar Garg GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/padmakar-garg">
-  <img src="https://img.shields.io/badge/LinkedIn-Padmakar%20Garg-0A66C2?style=for-the-badge&logo=linkedin" alt="Padmakar Garg LinkedIn"/>
-</a>
-<a href="https://dev.to/gargpadmakar">
-  <img src="https://img.shields.io/badge/DEV.to-Padmakar%20Garg-0A0A0A?style=for-the-badge&logo=dev.to" alt="Padmakar Garg DEV.to"/>
-</a>
-<a href="https://medium.com/@worldpadmakar007">
-  <img src="https://img.shields.io/badge/Medium-Padmakar%20Garg-000000?style=for-the-badge&logo=medium" alt="Padmakar Garg Medium"/>
-</a>
-
----
-
-## 👨‍💻 About Me
-
-I'm **Padmakar Garg**, an **Android Developer with 8+ years of experience** building scalable, secure, and high-performance mobile applications.
-
-I specialize in modern Android development using **Kotlin, Jetpack Compose, Android SDK, Kotlin Multiplatform (KMP), Coroutines, Flow, Room, Retrofit, Firebase, and WebRTC**.
-
-My primary areas of expertise include:
-
-- Native Android Development
-- Kotlin & Modern Android Development
-- Jetpack Compose
-- Android Architecture & System Design
-- MVVM & Clean Architecture
-- Kotlin Multiplatform (KMP)
-- Mobile Application Security
-- Data Encryption & Cryptography
-- REST API & WebSocket Integration
-- Real-time Communication & WebRTC
-- Local Database & Offline-first Applications
-- Performance Optimization
-- CI/CD & Release Automation
-- Open Source Development
-
-I enjoy solving complex engineering problems and transforming product requirements into reliable, scalable, and production-ready mobile applications.
-
----
-
-## 🚀 Core Expertise
-
-### Android Development
-
-- Kotlin
-- Java
-- Android SDK
-- Jetpack Compose
-- Material 3
-- Jetpack Libraries
-- Android Architecture Components
-- Navigation
-- Paging 3
-- WorkManager
-- DataStore
-
-### Architecture & System Design
-
-- MVVM
-- Clean Architecture
-- Repository Pattern
-- Use Case Pattern
-- Modularization
-- Dependency Injection
-- Koin
-- Offline-first architecture
-- Scalable Android application architecture
-- Android System Design
-
-### Kotlin & Multiplatform
-
-- Kotlin
-- Kotlin Coroutines
-- Kotlin Flow
-- Kotlin Multiplatform
-- Shared business logic
-- Cross-platform application architecture
-
-### Networking & Backend Integration
-
-- REST APIs
-- Retrofit
-- OkHttp
-- WebSockets
-- Socket.IO
-- JSON
-- Firebase Cloud Messaging
-- API authentication
-- Network security
-
-### Database & Storage
-
-- Room Database
-- SQLite
-- DataStore
-- Local caching
-- Offline data synchronization
-
-### Mobile Security
-
-- Mobile Application Security
-- Data Encryption
-- AES Encryption
-- ECDH
-- Cryptography
-- Secure API communication
-- Authentication mechanisms
-- Root detection
-- Debugger detection
-- Application integrity
-- Secure data storage
-
-### Real-time Communication
-
-- LiveKit
-- WebRTC
-- Voice Calling
-- Video Calling
-- Real-time Messaging
-- Socket.IO
-
-### Testing & Performance
-
-- Android Profiler
-- JUnit
-- Espresso
-- Mockito
-- Firebase Crashlytics
-- Performance optimization
-- Debugging and troubleshooting
-
-### DevOps & Development Tools
-
-- Git
-- GitHub
-- GitLab
-- Bitbucket
-- GitHub Actions
-- Jenkins
-- Bitrise
-- Android Studio
-- Postman
-
----
-
-## 🛠️ Technology Stack
-
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-
-![Room](https://img.shields.io/badge/Room%20Database-%23007396.svg?style=for-the-badge&logo=android&logoColor=white)
-
-![Retrofit](https://img.shields.io/badge/Retrofit-%2348B983.svg?style=for-the-badge&logo=android&logoColor=white)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🔐 Open Source & Mobile Security
-
-### AppProtectGuard
-
-I developed **AppProtectGuard**, an open-source Android security library focused on detecting potentially compromised application environments and unauthorized modifications.
-
-The library focuses on Android application security areas such as:
-
-- Root detection
-- Debugger detection
-- Application integrity checks
-- Security checks against unauthorized modifications
-- Runtime security considerations
-
-I am interested in building practical security solutions for Android applications and improving secure coding practices.
-
----
-
-## 📱 Featured Android Projects
-
-### Samwad — Secure Communication
-
-A secure communication application featuring real-time messaging and voice/video communication.
-
-**Technologies:**
-
-`Kotlin` `MVVM` `Retrofit` `Room` `Socket.IO` `LiveKit` `Firebase` `AES` `ECDH` `NDK`
-
-Key areas:
-
-- Real-time messaging
-- Voice and video calling
-- Secure communication
-- Data encryption
-- Push notifications
-- Local data persistence
-
----
-
-### Ritam News
-
-A modern cross-platform news application built using **Kotlin Multiplatform**.
-
-**Technologies:**
-
-`Kotlin Multiplatform` `Jetpack Compose` `MVVM` `Clean Architecture` `Koin` `Coroutines` `Flow`
-
-Key areas:
-
-- Cross-platform architecture
-- News feeds
-- Articles
-- Short videos
-- Category-based content
-- Shared business logic
-
----
-
-### Simplisync — Lead CRM
-
-A CRM application focused on lead management and communication tracking.
-
-**Technologies:**
-
-`Kotlin` `MVVM` `Retrofit` `Room` `Firebase` `Socket.IO` `Google Maps`
-
----
-
-### FikFis — Smart Shopping
-
-An e-commerce application with payment integration, product management and personalized shopping functionality.
-
-**Technologies:**
-
-`Kotlin` `Retrofit` `Firebase` `Stripe` `Payment Gateway Integration`
-
----
-
-## 📚 Android System Design
-
-I'm actively exploring and writing about **Android System Design**, including:
-
-- Scalable Android Architecture
-- Modularization
-- Offline-first Architecture
-- Networking Architecture
-- Local Database Architecture
-- Caching
-- Synchronization
-- Background Processing
-- WorkManager
-- Push Notifications
-- WebSocket Architecture
-- Real-time Communication
-- Authentication
-- Encryption
-- Mobile Security
-- Performance Optimization
-
-I share practical examples and architecture patterns from an Android developer's perspective.
-
----
-
-## ✍️ Technical Writing
-
-I write about Android development, Kotlin, Jetpack Compose, mobile security, architecture and software engineering.
-
-### Find my articles
-
-- [DEV.to](https://dev.to/gargpadmakar)
-- [Medium](https://medium.com/@worldpadmakar007)
-
----
-
-## 🌐 Find Me Online
-
-| Platform | Profile |
-|----------|---------|
-| 🌐 Website | [gargpadmakar.github.io](https://gargpadmakar.github.io/) |
-| 💻 GitHub | [github.com/gargpadmakar](https://github.com/gargpadmakar) |
-| 💼 LinkedIn | [linkedin.com/in/padmakar-garg](https://www.linkedin.com/in/padmakar-garg) |
-| ✍️ DEV.to | [dev.to/gargpadmakar](https://dev.to/gargpadmakar) |
-| 📝 Medium | [medium.com/@worldpadmakar007](https://medium.com/@worldpadmakar007) |
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gargpadmakar&theme=default&hide_border=false" alt="Padmakar Garg GitHub Contribution Streak"/>
+<img src="assets/padmakar-garg-banner.png" alt="Padmakar Garg — Android Developer" width="100%"/>
+
+<br/>
+
+# Padmakar Garg
+
+### Android Developer · Kotlin · Jetpack Compose · Android System Design · Mobile Security
+
+Building secure, scalable and production-ready Android applications, SDKs and open-source tools.
+
+<br/>
+
+<a href="https://gargpadmakar.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-gargpadmakar.github.io-0A84FF?style=for-the-badge" alt="Portfolio"/>
+</a>
+<a href="https://github.com/gargpadmakar">
+  <img src="https://img.shields.io/badge/GitHub-gargpadmakar-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/padmakar-garg">
+  <img src="https://img.shields.io/badge/LinkedIn-Padmakar%20Garg-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://dev.to/gargpadmakar">
+  <img src="https://img.shields.io/badge/DEV.to-gargpadmakar-0A0A0A?style=for-the-badge&logo=devdotto" alt="DEV.to"/>
+</a>
+<a href="https://medium.com/@worldpadmakar007">
+  <img src="https://img.shields.io/badge/Medium-@worldpadmakar007-000000?style=for-the-badge&logo=medium" alt="Medium"/>
+</a>
 
 </div>
 
 ---
 
-## 💼 Let's Work Together
+## About Me
 
-I'm interested in Android development, mobile architecture, mobile security, Kotlin Multiplatform and challenging software engineering problems.
+I'm **Padmakar Garg**, an **Android Developer with 8+ years of experience** building scalable, secure and high-performance mobile applications.
 
-If you're building a mobile product or working on an Android engineering problem, feel free to connect.
+My engineering focus is on:
 
-📧 **Email:** worldpadmakar007@gmail.com
+- Native Android development with **Kotlin**
+- Modern UI with **Jetpack Compose & Material 3**
+- **Android System Design & Architecture**
+- **Mobile Application Security**
+- **Kotlin Multiplatform (KMP)**
+- Clean Architecture, MVVM & UseCase-driven design
+- Networking, real-time communication and background processing
+- Building reusable **Android SDKs and open-source libraries**
+
+I enjoy working on products where **architecture, performance, security and maintainability** matter.
 
 ---
 
-## ⭐ Support My Open Source Work
+## Engineering Expertise
 
-If you find my projects useful, consider giving them a ⭐ on GitHub.
-
-Your support helps me continue building and sharing open-source Android tools and knowledge.
+| Area | Expertise |
+| --- | --- |
+| **Android** | Kotlin, Android SDK, Jetpack Compose, Material 3 |
+| **Architecture** | MVVM, Clean Architecture, UseCase, Modularization |
+| **Async & Data** | Coroutines, Flow, Room, DataStore, Paging 3 |
+| **Networking** | Retrofit, REST APIs, WebSockets, Ktor |
+| **Real-time** | WebRTC, LiveKit, Socket.IO |
+| **Security** | Encryption, authentication, secure API communication, mobile security |
+| **Multiplatform** | Kotlin Multiplatform (KMP) |
+| **Background** | WorkManager, notifications, background processing |
+| **Testing** | JUnit, Espresso, Mockito |
+| **DevOps** | GitHub Actions, CI/CD, Jenkins, Bitrise |
+| **Open Source** | Android libraries, SDKs and developer tooling |
 
 ---
 
-**Padmakar Garg — Android Developer | Kotlin | Jetpack Compose | Android System Design | Mobile Security | Kotlin Multiplatform**
+## Technology Stack
+
+<div align="center">
+
+### Android & Kotlin
+
+<img src="https://skillicons.dev/icons?i=android,kotlin,java,gradle,git,github,firebase" alt="Android Kotlin Java Gradle Git GitHub Firebase"/>
+
+### Modern Android
+
+<img src="https://img.shields.io/badge/Jetpack%20Compose-Modern%20UI-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material%203-UI%20System-757575?style=flat-square&logo=materialdesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin%20Multiplatform-KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coroutines-%26%20Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+
+### Data & Networking
+
+<img src="https://img.shields.io/badge/Room-Database-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Retrofit-REST%20API-48B983?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ktor-Networking-087CFA?style=flat-square&logo=ktor&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSocket-Real--time-111111?style=flat-square"/>
+
+</div>
+
+---
+
+# SDKs, Libraries & Open Source
+
+I also build reusable developer tools and Android libraries focused on **analytics, security and production-grade mobile development**.
+
+### ScreenAnalytics — Android Screen Analytics SDK
+
+**ScreenAnalytics** is an Android/Compose-focused library for tracking screen views and navigation analytics with a reusable developer-friendly API.
+
+**Focus:**
+- Screen view tracking
+- Jetpack Compose support
+- Reusable analytics architecture
+- Library-first design
+- Open-source distribution
+- JitPack publishing
+
+**Repository:**  
+https://github.com/gargpadmakar/screen-analytics-android
+
+---
+
+### AppProtectGuard — Mobile Security Library
+
+**AppProtectGuard** is an open-source Android security-focused project designed around practical mobile application protection and secure development concepts.
+
+**Focus:**
+- Android application security
+- Security-focused utilities
+- Secure coding practices
+- Protection-oriented mobile development
+- Reusable Android components
+
+---
+
+## Selected Product Work
+
+### Samwad — Secure Communication
+
+A secure communication application with modern Android architecture and real-time communication capabilities.
+
+**Focus:** Android · Kotlin · Jetpack Compose · Real-time Communication · Security
+
+---
+
+### Ritam News
+
+A modern news application featuring articles, Shorts, deep links, in-app browsing, content sharing and multimedia experiences.
+
+**Focus:** Kotlin · Jetpack Compose · KMP · WebView · Deep Linking · Networking
+
+---
+
+### Simplisync — Lead CRM
+
+A mobile CRM solution focused on lead management and business workflows.
+
+**Focus:** Android · Kotlin · REST APIs · Data Management · Clean Architecture
+
+---
+
+### FikFis — Smart Shopping
+
+A mobile shopping experience designed around modern Android UI and scalable application architecture.
+
+**Focus:** Android · Kotlin · Modern UI · API Integration
+
+---
+
+## Android System Design
+
+I write and learn about Android system design from a practical **Android Developer perspective**.
+
+Topics I focus on:
+
+- Application architecture
+- Modularization
+- Offline-first design
+- Networking architecture
+- Caching strategies
+- Database design
+- Background processing
+- Push notifications
+- Real-time communication
+- Authentication & authorization
+- Encryption & key management
+- Scalability and reliability
+- Performance optimization
+- Observability and logging
+
+### Typical Architecture
+
+```text
+                ┌─────────────────────┐
+                │     Presentation    │
+                │  Compose / UI State  │
+                └──────────┬──────────┘
+                           │
+                ┌──────────▼──────────┐
+                │      ViewModel       │
+                │   State / Events     │
+                └──────────┬──────────┘
+                           │
+                ┌──────────▼──────────┐
+                │       UseCase        │
+                │   Business Logic     │
+                └──────────┬──────────┘
+                           │
+                ┌──────────▼──────────┐
+                │      Repository      │
+                │ Contract / Abstraction│
+                └──────────┬──────────┘
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+     ┌───────▼────────┐         ┌────────▼───────┐
+     │  Remote Data   │         │   Local Data   │
+     │ REST/WebSocket │         │ Room/DataStore │
+     └────────────────┘         └────────────────┘
+```
+
+---
+
+## Mobile Security
+
+Security is one of my core areas of interest, especially for Android applications handling sensitive data and APIs.
+
+Areas I work with and study:
+
+- Symmetric & asymmetric encryption
+- AES-based data protection
+- ECDH key exchange
+- Secure API communication
+- Authentication mechanisms
+- Secure token handling
+- Key management
+- Native-layer security
+- Secure WebSocket communication
+- Application integrity
+- Secure storage and data handling
+
+My approach is to treat security as an **architecture concern**, not something added only at the end of development.
+
+---
+
+## Technical Writing
+
+I regularly write about Android development, architecture, system design, security and practical engineering.
+
+- **DEV.to:** https://dev.to/gargpadmakar
+- **Medium:** https://medium.com/@worldpadmakar007
+- **Portfolio:** https://gargpadmakar.github.io/
+
+Topics include:
+
+- Android System Design
+- Jetpack Compose
+- Android Architecture
+- Mobile Security
+- Kotlin & Coroutines
+- Kotlin Multiplatform
+- Open-source Android libraries
+- Production Android engineering
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gargpadmakar&show_icons=true&hide_border=true&rank_icon=github" alt="Padmakar Garg GitHub Stats"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gargpadmakar&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## What I Build
+
+```text
+┌───────────────────────────────────────────────────────┐
+│                   PADMAKAR GARG                       │
+├───────────────────────────────────────────────────────┤
+│                                                       │
+│  Android Apps        → Secure & Scalable Products     │
+│  Android SDKs        → Reusable Developer Tools       │
+│  System Design       → Reliable Mobile Architecture   │
+│  Mobile Security     → Security-first Engineering     │
+│  Open Source         → Libraries & Knowledge Sharing  │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+```
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+| Platform | Link |
+| --- | --- |
+| **Portfolio** | https://gargpadmakar.github.io/ |
+| **GitHub** | https://github.com/gargpadmakar |
+| **LinkedIn** | https://www.linkedin.com/in/padmakar-garg |
+| **DEV.to** | https://dev.to/gargpadmakar |
+| **Medium** | https://medium.com/@worldpadmakar007 |
+
+</div>
+
+---
+
+<div align="center">
+
+### Android Developer • System Design • Mobile Security • SDKs • Open Source
+
+**Building secure, scalable and meaningful mobile experiences.**
+
+</div>
