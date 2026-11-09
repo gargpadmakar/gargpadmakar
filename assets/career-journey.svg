@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="410" viewBox="0 0 960 410" role="img" aria-label="Career journey of Padmakar Garg from B.Tech to Senior Android Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset="0.55" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#3DDC84"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#3DDC84"/>
+    </linearGradient>
+    <style>
+      text { font-family: -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+      .title { fill: #FFFFFF; font-size: 22px; font-weight: 700; }
+      .sub { fill: #8B949E; font-size: 12.5px; }
+      .year { fill: #58A6FF; font-size: 14px; font-weight: 700; }
+      .role { fill: #F0F6FC; font-size: 14px; font-weight: 700; }
+      .org { fill: #79C0FF; font-size: 12.5px; font-weight: 600; }
+      .txt { fill: #C9D1D9; font-size: 12px; }
+      .chip { fill: #58A6FF; font-size: 10.5px; font-weight: 700; letter-spacing: 0.6px; }
+      .chipnow { fill: #3DDC84; font-size: 10.5px; font-weight: 700; letter-spacing: 0.6px; }
+    </style>
+  </defs>
+
+  <rect width="960" height="410" rx="16" fill="url(#bg)" stroke="#30363D"/>
+
+  <text x="480" y="46" text-anchor="middle" class="title">Career Journey</text>
+  <text x="480" y="68" text-anchor="middle" class="sub">8+ years  ·  120+ projects  ·  Android  ·  Security  ·  Real-time</text>
+
+  <!-- timeline line -->
+  <rect x="60" y="147" width="840" height="5" rx="2.5" fill="url(#line)"/>
+
+  <!-- node 1 -->
+  <circle cx="130" cy="150" r="11" fill="#0D1117" stroke="#58A6FF" stroke-width="3"/>
+  <circle cx="130" cy="150" r="4" fill="#58A6FF"/>
+  <text x="130" y="122" text-anchor="middle" class="year">2010 – 2014</text>
+  <rect x="30" y="180" width="200" height="200" rx="12" fill="#161B22" stroke="#30363D"/>
+  <text x="46" y="208" class="role">B.Tech</text>
+  <text x="46" y="226" class="role">Information Technology</text>
+  <text x="46" y="250" class="org">GBTU University</text>
+  <text x="46" y="276" class="txt">United College of</text>
+  <text x="46" y="294" class="txt">Engineering &amp; Management,</text>
+  <text x="46" y="312" class="txt">Prayagraj</text>
+  <text x="46" y="360" class="chip">FOUNDATION</text>
+
+  <!-- node 2 -->
+  <circle cx="360" cy="150" r="11" fill="#0D1117" stroke="#6E9BFF" stroke-width="3"/>
+  <circle cx="360" cy="150" r="4" fill="#6E9BFF"/>
+  <text x="360" y="122" text-anchor="middle" class="year">2017 – 2018</text>
+  <rect x="260" y="180" width="200" height="200" rx="12" fill="#161B22" stroke="#30363D"/>
+  <text x="276" y="208" class="role">Network</text>
+  <text x="276" y="226" class="role">Administrator</text>
+  <text x="276" y="250" class="org">Wipro Infotech</text>
+  <text x="276" y="276" class="txt">UPSWAN project in</text>
+  <text x="276" y="294" class="txt">collaboration with</text>
+  <text x="276" y="312" class="txt">Delhi NIC</text>
+  <text x="276" y="360" class="chip">IT INFRASTRUCTURE</text>
+
+  <!-- node 3 -->
+  <circle cx="590" cy="150" r="11" fill="#0D1117" stroke="#8B5CF6" stroke-width="3"/>
+  <circle cx="590" cy="150" r="4" fill="#8B5CF6"/>
+  <text x="590" y="122" text-anchor="middle" class="year">2018 – 2022</text>
+  <rect x="490" y="180" width="200" height="200" rx="12" fill="#161B22" stroke="#30363D"/>
+  <text x="506" y="208" class="role">Associate Android</text>
+  <text x="506" y="226" class="role">Developer</text>
+  <text x="506" y="250" class="org">Duplex Technologies</text>
+  <text x="506" y="276" class="txt">E-commerce, CRM, cab</text>
+  <text x="506" y="294" class="txt">booking, astrologer, news</text>
+  <text x="506" y="312" class="txt">Java · Kotlin · MVC · MVVM</text>
+  <text x="506" y="360" class="chip">GROWTH</text>
+
+  <!-- node 4 (current) -->
+  <circle cx="820" cy="150" r="15" fill="none" stroke="#3DDC84" stroke-opacity="0.35" stroke-width="2"/>
+  <circle cx="820" cy="150" r="11" fill="#0D1117" stroke="#3DDC84" stroke-width="3"/>
+  <circle cx="820" cy="150" r="4" fill="#3DDC84"/>
+  <text x="820" y="122" text-anchor="middle" class="year">2022 – Present</text>
+  <rect x="720" y="180" width="200" height="200" rx="12" fill="#161B22" stroke="url(#glow)" stroke-width="1.6"/>
+  <text x="736" y="208" class="role">Senior Android</text>
+  <text x="736" y="226" class="role">Developer</text>
+  <text x="736" y="250" class="org">Sveltetech Technology</text>
+  <text x="736" y="276" class="txt">Real-time chat, WebRTC</text>
+  <text x="736" y="294" class="txt">E2EE &amp; NDK security</text>
+  <text x="736" y="312" class="txt">Android EDR · KMP · SDKs</text>
+  <text x="736" y="360" class="chipnow">● CURRENT</text>
+</svg>
