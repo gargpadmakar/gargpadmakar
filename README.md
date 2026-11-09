@@ -120,15 +120,14 @@ An open-source project exploring practical application protection and secure dev
 
 | Product | Description | Stack |
 |---|---|---|
+| [**Super Astrologer**](https://play.google.com/store/apps/details?id=com.superastrologer) | Astrology consultation app with Exotel voice calls, payments, reminders and push notifications (10K+ downloads, 4.3★) | Java, MVC, Retrofit, Cashfree, Firebase |
 | **SvelteShield EDR** | Enterprise Android endpoint detection and response: root, emulator and hooking (Frida, Xposed) detection, loopback-VPN traffic inspection, malicious IP/domain/APK blocking, and policy-driven enforcement | Java, C/C++ (NDK), JNI, Loopback VPN, Retrofit, OkHttp, Socket.IO |
-| [**Samwad**](https://play.google.com/store/apps/details?id=com.dalmiatalk) | Secure communication app with VoIP calling, real-time chat, AES/ECDH encryption and push notifications | Kotlin, Socket.IO, LiveKit, NDK, MVVM, Room, Retrofit, Firebase |
+| [**Vaves**](https://play.google.com/store/apps/details?id=com.sveltetech.vaves) | Secure messaging app with groups, media and file sharing, and end-to-end encrypted voice calls | Kotlin, Socket.IO, LiveKit, NDK, MVVM, Room, Retrofit, Firebase |
 | [**Ritam News**](https://play.google.com/store/apps/details?id=org.ritamdigital.ritam&hl=en_IN) | Cross-platform news app with personalized feeds, category browsing and short videos | Kotlin Multiplatform, Clean Architecture, MVVM, Koin, Coroutines, Flow |
+| [**Edly**](https://play.google.com/store/apps/details?id=com.app.edlytech) | EdTech app for competitive exam prep with AI-powered mock tests and adaptive learning | Kotlin, MVVM, REST APIs, Google Sign-In |
 | [**Simplisync**](https://play.google.com/store/apps/details?id=com.simplysync) | Lead CRM with call history tracking (status, duration) synced to backend systems in real time | Kotlin, Socket.IO, Google Maps, Room, Retrofit, Firebase, MVVM |
 | [**FikFis**](https://play.google.com/store/apps/details?id=com.fikfis) | E-commerce app with secure payments, shipping APIs and push notifications | Kotlin, Retrofit, Stripe, Firebase |
-| [**Super Astrologer**](https://play.google.com/store/apps/details?id=com.superastrologer) | Astrology consultation app with Exotel voice calls, payments, reminders and push notifications (10K+ downloads, 4.3★) | Java, MVC, Retrofit, Cashfree, Firebase |
-| [**Edly**](https://play.google.com/store/apps/details?id=com.app.edlytech) | EdTech app for competitive exam prep with AI-powered mock tests and adaptive learning | Kotlin, MVVM, REST APIs, Google Sign-In |
 | [**Cell Id**](https://play.google.com/store/apps/details?id=com.cellid) | Telecom tower search with Google Maps, clustering and Razorpay-based access control | Kotlin, MVVM, Google Maps and Places APIs, Room, Retrofit |
-
 ---
 
 ## Android System Design
