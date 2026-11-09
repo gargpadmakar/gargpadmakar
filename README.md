@@ -105,15 +105,6 @@ A Kotlin-based Android cryptography SDK implementing MTProto 2.0 primitives, wit
 - Apache 2.0 licensed, distributed via JitPack
 
 `Kotlin` · `Jetpack Compose` · `Koin` · `Coroutines` · `Bouncy Castle` · `Node.js`
-
-### AppProtectGuard — Mobile Security Library
-
-An open-source project exploring practical application protection and secure development on Android.
-
-- Security-focused utilities
-- Secure coding practices
-- Reusable protection-oriented components
-
 ---
 
 ## Selected Product Work
