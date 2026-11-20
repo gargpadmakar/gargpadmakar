@@ -8,7 +8,7 @@
 
 Building secure, scalable and production-ready Android applications, SDKs and open-source tools.
 
-[Portfolio](https://gargpadmakar.github.io/) · [Resume](https://gargpadmakar.github.io/img/ResumePadmakar.pdf) · [LinkedIn](https://www.linkedin.com/in/padmakar-garg) · [DEV.to](https://dev.to/gargpadmakar) · [Medium](https://medium.com/@worldpadmakar007)
+[Portfolio](https://gargpadmakar.github.io/) · [Blog](https://gargpadmakar.github.io/blog/) · [Resume](https://gargpadmakar.github.io/img/ResumePadmakar.pdf) · [LinkedIn](https://www.linkedin.com/in/padmakar-garg) · [DEV.to](https://dev.to/gargpadmakar) · [Medium](https://medium.com/@worldpadmakar007)
 
 </div>
 
@@ -185,6 +185,7 @@ Security is treated as an architectural concern, not an afterthought. Areas I wo
 
 I publish articles on Android architecture, system design, security and production engineering.
 
+- **Blog:** [gargpadmakar.github.io/blog](https://gargpadmakar.github.io/blog/)
 - **DEV.to:** [gargpadmakar](https://dev.to/gargpadmakar)
 - **Medium:** [@worldpadmakar007](https://medium.com/@worldpadmakar007)
 - **Portfolio:** [gargpadmakar.github.io](https://gargpadmakar.github.io/)
@@ -197,6 +198,7 @@ I publish articles on Android architecture, system design, security and producti
 |---|---|
 | Email | [worldpadmakar007@gmail.com](mailto:worldpadmakar007@gmail.com) |
 | Portfolio | [gargpadmakar.github.io](https://gargpadmakar.github.io/) |
+| Blog | [gargpadmakar.github.io/blog](https://gargpadmakar.github.io/blog/) |
 | Resume | [Download CV](https://gargpadmakar.github.io/img/ResumePadmakar.pdf) |
 | GitHub | [github.com/gargpadmakar](https://github.com/gargpadmakar) |
 | LinkedIn | [linkedin.com/in/padmakar-garg](https://www.linkedin.com/in/padmakar-garg) |
