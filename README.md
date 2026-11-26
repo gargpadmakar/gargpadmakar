@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="assets/padmakar-garg-banner.png" alt="Padmakar Garg — Android Developer" width="100%"/>
@@ -16,9 +17,9 @@ Building secure, scalable and production-ready Android applications, SDKs and op
 
 ## About
 
-Android Developer with 8+ years of experience and 120+ projects delivered across e-commerce, CRM, news, communication and security, building scalable, secure and high-performance mobile applications. I focus on products where architecture, performance, security and maintainability matter.
+Android Developer with 8+ years of experience and 120+ projects delivered across e-commerce, CRM, news, communication and security. I build scalable, secure and high-performance mobile applications, focusing on products where architecture, performance, security and maintainability matter.
 
-**Core focus**
+**Core Focus**
 
 - Native Android development with Kotlin
 - Modern UI with Jetpack Compose and Material 3
@@ -40,16 +41,19 @@ Android Developer with 8+ years of experience and 120+ projects delivered across
 ### Experience
 
 **Senior Android Developer** · Sveltetech Technology Pvt Ltd · *Aug 2022 – Present*
-- Built real-time messaging with Socket programming and integrated LiveKit WebRTC for voice and video calls.
+
+- Built real-time messaging with socket programming and integrated LiveKit WebRTC for voice and video calls.
 - Implemented end-to-end encryption and secure data transmission for messaging.
-- Optimized app performance for smooth calls and messaging, and contributed new features with modern technologies.
+- Optimized application performance for smooth calls and messaging, and delivered features using modern Android technologies.
 
 **Associate Android Developer** · Duplex Technologies Services Pvt Ltd · *Jan 2018 – Jul 2022*
-- Delivered e-commerce, CRM, cab booking, astrologer, service provider and news apps.
-- Worked in a three-member team, owning the full project lifecycle from requirements to deployment.
-- Resolved complex technical issues with an average bug resolution time under 24 hours.
+
+- Delivered e-commerce, CRM, cab booking, astrologer, service provider and news applications.
+- Worked in a three-member team, owning the project lifecycle from requirements through deployment.
+- Resolved complex technical issues with an average bug resolution time of under 24 hours.
 
 **Network Administrator** · Wipro Infotech · *Oct 2017 – Oct 2018*
+
 - Worked on the UPSWAN project in collaboration with Delhi NIC.
 
 ### Education
@@ -74,9 +78,7 @@ Android Developer with 8+ years of experience and 120+ projects delivered across
 | **CI/CD** | GitHub Actions, Jenkins, Bitrise |
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=android,kotlin,java,gradle,git,github,firebase" alt="Android, Kotlin, Java, Gradle, Git, GitHub, Firebase"/>
-
+  <img src="https://skillicons.dev/icons?i=android,kotlin,java,gradle,git,github,firebase" alt="Android, Kotlin, Java, Gradle, Git, GitHub and Firebase"/>
 </div>
 
 ---
@@ -94,17 +96,18 @@ A library for tracking screen views and navigation analytics through a reusable,
 
 ### [MTProtoCrypto](https://github.com/gargpadmakar/MTProtoCrypto) — MTProto 2.0 Cryptography SDK
 
-A Kotlin-based Android cryptography SDK implementing MTProto 2.0 primitives, with a Jetpack Compose sample app and a Node.js reference backend. Built with Clean Architecture, MVVM and the UseCase pattern. Independent project, not affiliated with Telegram.
+A Kotlin-based Android cryptography SDK implementing MTProto 2.0 primitives, with a Jetpack Compose sample app and a Node.js reference backend. Built with Clean Architecture, MVVM and the UseCase pattern. This is an independent project and is not affiliated with Telegram.
 
 - AES-256-IGE cipher, which standard Android JCE does not provide
 - MTProto 2.0 directional key derivation (SHA-256) and message encryption with random padding
 - Constant-time `msg_key` verification before plaintext is released
-- 2048-bit Diffie-Hellman key exchange (RFC 3526 Group 14) with parameter validation
+- 2048-bit Diffie–Hellman key exchange (RFC 3526 Group 14) with parameter validation
 - Secret Chat media encryption with constant-memory 64 KB streaming for large files
 - Best-effort memory zeroization of sensitive buffers
-- Apache 2.0 licensed, distributed via JitPack
+- Apache 2.0 licensed and distributed via JitPack
 
 `Kotlin` · `Jetpack Compose` · `Koin` · `Coroutines` · `Bouncy Castle` · `Node.js`
+
 ---
 
 ## Selected Product Work
@@ -115,10 +118,11 @@ A Kotlin-based Android cryptography SDK implementing MTProto 2.0 primitives, wit
 | **SvelteShield EDR** | Enterprise Android endpoint detection and response: root, emulator and hooking (Frida, Xposed) detection, loopback-VPN traffic inspection, malicious IP/domain/APK blocking, and policy-driven enforcement | Java, C/C++ (NDK), JNI, Loopback VPN, Retrofit, OkHttp, Socket.IO |
 | [**Vaves**](https://play.google.com/store/apps/details?id=com.sveltetech.vaves) | Secure messaging app with groups, media and file sharing, and end-to-end encrypted voice calls | Kotlin, Socket.IO, LiveKit, NDK, MVVM, Room, Retrofit, Firebase |
 | [**Ritam News**](https://play.google.com/store/apps/details?id=org.ritamdigital.ritam&hl=en_IN) | Cross-platform news app with personalized feeds, category browsing and short videos | Kotlin Multiplatform, Clean Architecture, MVVM, Koin, Coroutines, Flow |
-| [**Edly**](https://play.google.com/store/apps/details?id=com.app.edlytech) | EdTech app for competitive exam prep with AI-powered mock tests and adaptive learning | Kotlin, MVVM, REST APIs, Google Sign-In |
-| [**Simplisync**](https://play.google.com/store/apps/details?id=com.simplysync) | Lead CRM with call history tracking (status, duration) synced to backend systems in real time | Kotlin, Socket.IO, Google Maps, Room, Retrofit, Firebase, MVVM |
+| [**Edly**](https://play.google.com/store/apps/details?id=com.app.edlytech) | EdTech app for competitive exam preparation with AI-powered mock tests and adaptive learning | Kotlin, MVVM, REST APIs, Google Sign-In |
+| [**Simplisync**](https://play.google.com/store/apps/details?id=com.simplysync) | Lead CRM with call history tracking (status and duration) synced to backend systems in real time | Kotlin, Socket.IO, Google Maps, Room, Retrofit, Firebase, MVVM |
 | [**FikFis**](https://play.google.com/store/apps/details?id=com.fikfis) | E-commerce app with secure payments, shipping APIs and push notifications | Kotlin, Retrofit, Stripe, Firebase |
 | [**Cell Id**](https://play.google.com/store/apps/details?id=com.cellid) | Telecom tower search with Google Maps, clustering and Razorpay-based access control | Kotlin, MVVM, Google Maps and Places APIs, Room, Retrofit |
+
 ---
 
 ## Android System Design
@@ -136,7 +140,7 @@ I write and share practical system design topics from an Android developer's per
 - Scalability, reliability and performance
 - Observability and logging
 
-**Reference architecture**
+**Reference Architecture**
 
 ```text
 ┌─────────────────────────┐
@@ -171,7 +175,7 @@ I write and share practical system design topics from an Android developer's per
 
 Security is treated as an architectural concern, not an afterthought. Areas I work with:
 
-- Symmetric and asymmetric encryption (AES, AES-IGE, ECDH and Diffie-Hellman key exchange)
+- Symmetric and asymmetric encryption (AES, AES-IGE, ECDH and Diffie–Hellman key exchange)
 - Secure API and WebSocket communication
 - Authentication and secure token handling
 - Key management and secure storage
@@ -189,6 +193,14 @@ I publish articles on Android architecture, system design, security and producti
 - **DEV.to:** [gargpadmakar](https://dev.to/gargpadmakar)
 - **Medium:** [@worldpadmakar007](https://medium.com/@worldpadmakar007)
 - **Portfolio:** [gargpadmakar.github.io](https://gargpadmakar.github.io/)
+
+---
+
+## GitHub Activity
+
+I actively work on Android development, Kotlin projects, open-source libraries and mobile security engineering.
+
+[View my GitHub profile](https://github.com/gargpadmakar)
 
 ---
 
